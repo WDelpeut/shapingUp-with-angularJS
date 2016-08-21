@@ -1,0 +1,17 @@
+/* app css stylesheet */
+ul {
+	list-style-type: none;
+}
+
+img {
+	width: 250px;
+	height: 400px;
+}
+
+.preview {
+	background-color: grey;
+}
+
+.goodRating {
+	color: green;
+}

@@ -1,1 +1,2 @@
-# shapingUp-with-angularJS
+shapingUp_with_angularJS/app
+npm start
