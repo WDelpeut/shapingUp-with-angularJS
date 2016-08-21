@@ -1,2 +1,2 @@
-shapingUp_with_angularJS/app
+shapingUp_with_angularJS/app</br>
 npm start
